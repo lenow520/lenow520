@@ -1,4 +1,4 @@
-## Hi there I'm Tzu-Chien👋
+## Hello there I'm Tzu-Chien👋
 
 <!--
 **lenow520/lenow520** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -30,7 +30,10 @@ Here are some ideas to get you started:
 
 ### 🤝🏻 &nbsp;Connect with Me
 
+<a href="mailto:zchien.huang@gmail.com"><img src="https://img.shields.io/badge/-mail-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/tzu-chien-huang-6153ba203/"><img src="https://img.shields.io/badge/Linkedin-Tzu--Chien%20Huang-blue?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="https://medium.com/@lenow520" target="_blank"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -42,3 +45,6 @@ Here are some ideas to get you started:
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
+
+### 👀 &nbsp;Visitor Count
+<img src="https://profile-counter.glitch.me/lenow520/count.svg" />
