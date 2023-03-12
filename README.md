@@ -18,20 +18,14 @@ Here are some ideas to get you started:
 💬  Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.
 📄  Please have a look at my Résumé for more details about me. I'm open to feedback and suggestions!
 
-
-
-### 🤝🏻 &nbsp;Connect with Me
-
-<p align="center">
-<a href="https://www.linkedin.com/in/tzu-chien-huang-6153ba203/"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:avsingh@umass.edu"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-</p>
+### 👀 &nbsp;Visitor Count
+<img src="https://profile-counter.glitch.me/lenow520/count.svg" />
 -->
 
 ### 🤝🏻 &nbsp;Connect with Me
 
 <a href="mailto:zchien.huang@gmail.com"><img src="https://img.shields.io/badge/-mail-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/tzu-chien-huang-6153ba203/"><img src="https://img.shields.io/badge/Linkedin-Tzu--Chien%20Huang-blue?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/tzu-chien-huang-6153ba203/"><img src="https://img.shields.io/badge/Linkedin-Tzu-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://medium.com/@lenow520" target="_blank"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 
 
@@ -46,5 +40,4 @@ Here are some ideas to get you started:
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
 
-### 👀 &nbsp;Visitor Count
-<img src="https://profile-counter.glitch.me/lenow520/count.svg" />
+
