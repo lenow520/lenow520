@@ -23,10 +23,16 @@ Here are some ideas to get you started:
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://linkedin.com/in/AVS1508"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/tzu-chien-huang-6153ba203/"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:avsingh@umass.edu"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
 -->
+
+### 🤝🏻 &nbsp;Connect with Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/tzu-chien-huang-6153ba203/"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5style=flat&logo=Linkedin&logoColor=white"/></a>
+</p>
 
 ### 🛠 &nbsp;Tech Stack
 
