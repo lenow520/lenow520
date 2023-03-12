@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 ### 🤝🏻 &nbsp;Connect with Me
 
-<a href="https://www.linkedin.com/in/tzu-chien-huang-6153ba203/"><img src="https://img.shields.io/badge/-Tzu-Chien%20Huang-0077B5style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/tzu-chien-huang-6153ba203/"><img src="https://img.shields.io/badge/Linkedin-Tzu--Chien%20Huang-blue?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 
 ### 🛠 &nbsp;Tech Stack
 
