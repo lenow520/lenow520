@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ### 🤝🏻 &nbsp;Connect with Me
 
 <a href="mailto:zchien.huang@gmail.com"><img src="https://img.shields.io/badge/-mail-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/tzu-chien-huang-6153ba203/"><img src="https://img.shields.io/badge/Linkedin-Tzu-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/tzu-chien-huang-6153ba203/"><img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://medium.com/@lenow520" target="_blank"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 
 
